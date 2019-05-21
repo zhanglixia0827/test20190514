@@ -9,5 +9,6 @@ public class Test {
 		System.out.println("05");
 		System.out.println("06");
 		System.out.println("07");
+		System.out.println("08");
 	}
 }
