@@ -11,7 +11,6 @@ public class Test {
 		System.out.println("07");
 		System.out.println("08");
 		System.out.println("09");
-		System.out.println("10");
 		System.out.println("dev-01");
 		System.out.println("dev-02");
 		System.out.println("dev-03");
