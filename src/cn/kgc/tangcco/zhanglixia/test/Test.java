@@ -20,5 +20,6 @@ public class Test {
 		System.out.println("dev-06");
 		System.out.println("dev-07");
 		System.out.println("master向前一步");
+		System.out.println("dev也向前一步");
 	}
 }
